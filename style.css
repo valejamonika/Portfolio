@@ -75,7 +75,7 @@ header .user img{
     border-radius:50%;
     object-fit:cover;
     margin-bottom:1rem;
-    border:1rem solid var(--yellow);
+    border:.7rem solid var(--yellow);
 }
 header .user .name
 {
@@ -447,10 +447,12 @@ section
     {
         display: block;
     }
+
     header.toggle
     {
         left:0%;
     }
+
     body
    {
     padding:0;
